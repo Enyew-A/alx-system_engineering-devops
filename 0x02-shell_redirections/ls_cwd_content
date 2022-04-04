@@ -1,0 +1,14 @@
+total 18
+drwxr-xr-x 1 EnyewA 1049089  0 Apr  4 15:51 .
+drwxr-xr-x 1 EnyewA 1049089  0 Apr  4 14:05 ..
+-rwxr-xr-x 1 EnyewA 1049089 36 Apr  4 13:07 0-hello_world
+-rwxr-xr-x 1 EnyewA 1049089 28 Apr  4 14:11 1-confused_smiley
+-rwxr-xr-x 1 EnyewA 1049089 28 Apr  4 14:25 2-hellofile
+-rwxr-xr-x 1 EnyewA 1049089 39 Apr  4 14:58 3-twofiles
+-rwxr-xr-x 1 EnyewA 1049089 35 Apr  4 15:09 4-lastlines
+-rwxr-xr-x 1 EnyewA 1049089 35 Apr  4 15:19 5-firstlines
+-rwxr-xr-x 1 EnyewA 1049089 40 Apr  4 15:28 6-third_line
+-rwxr-xr-x 1 EnyewA 1049089 80 Apr  4 15:37 7-file
+-rwxr-xr-x 1 EnyewA 1049089 36 Apr  4 15:47 8-cwd_state
+-rw-r--r-- 1 EnyewA 1049089 84 Apr  4 13:20 README.md
+-rw-r--r-- 1 EnyewA 1049089  0 Apr  4 15:51 ls_cwd_content
